@@ -1,0 +1,1 @@
+i learnt pull and push in git through cmd
